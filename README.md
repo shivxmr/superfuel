@@ -20,7 +20,7 @@ The project consists of two main components:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/shivam/superfuel.git
+git clone https://github.com/shivxmr/superfuel.git
 cd superfuel
 ```
 
